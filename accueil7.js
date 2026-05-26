@@ -1,0 +1,1 @@
+console.log("accueil7.js fonctionne !");
